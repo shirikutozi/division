@@ -47,4 +47,6 @@
 # My stuff
 0.0.0.0 sync.geo.opera.com
 0.0.0.0 merchandise.opera-api.com
-
+0.0.0.0 tracking.overwolf.com
+0.0.0.0 usersconfig.overwolf.com
+0.0.0.0 updates.overwolf.com
