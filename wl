@@ -1,4 +1,4 @@
-### AMAZON APP ###
+### AMAZON APP 
 aan.amazon-adsystem.com # AMAZON APP
 aan.amazon.com # AMAZON APP
 aax-us-east.amazon-adsystem.com # AMAZON APP #(forced-entry)
@@ -12,7 +12,7 @@ mads.amazon-adsystem.com # AMAZON APP
 s.amazon-adsystem.com # AMAZON APP
 
 
-### OTHER SOURCE ##
+### OTHER SOURCE 
 
 aan.amazon-adsystem.com
 aan.amazon.com
