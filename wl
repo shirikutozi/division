@@ -10,6 +10,7 @@ mads.amazon-adsystem.com
 s.amazon-adsystem.com 
 mag-na.amazon.com
 amazon.ca
+api.amazon.ca
 
 aan.amazon-adsystem.com
 aan.amazon.com
