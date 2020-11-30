@@ -41,10 +41,10 @@
 0.0.0.0 ph-shaw-acs.ciscoprimehome.com 
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
-0.0.0.0 merchandise.opera-api.com
 0.0.0.0 myriad.merlin.comcast.com #UNTESTED
 #0.0.0.0 stbrtl.stb.r53.xcal.tv #UNTESTED
 #
 # My stuff
-sync.geo.opera.com
+0.0.0.0 sync.geo.opera.com
+0.0.0.0 merchandise.opera-api.com
 
