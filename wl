@@ -1,7 +1,7 @@
 ### AMAZON APP 
 aan.amazon-adsystem.com # AMAZON APP
 aan.amazon.com # AMAZON APP
-aax-us-east.amazon-adsystem.com # AMAZON APP #(forced-entry)
+aax-us-east.amazon-adsystem.com # AMAZON APP
 aax-us-pdx.amazon-adsystem.com # AMAZON APP
 aax.amazon-adsystem.com # AMAZON APP
 c.amazon-adsystem.com # AMAZON APP FIX
