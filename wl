@@ -13,8 +13,6 @@ amazon.ca
 amzn.ca
 api.amazon.ca
 
-aan.amazon-adsystem.com
-aan.amazon.com
 aax.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
