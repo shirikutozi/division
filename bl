@@ -33,9 +33,9 @@
 0.0.0.0 hk4e-api-os.mihoyo.com
 #
 #
-0.0.0.0 dispatchosglobal.yuanshen.com
-0.0.0.0 oseurodispatch.yuanshen.com
-0.0.0.0 osasiadispatch.yuanshen.com
+#0.0.0.0 dispatchosglobal.yuanshen.com
+#0.0.0.0 oseurodispatch.yuanshen.com
+#0.0.0.0 osasiadispatch.yuanshen.com
 #
 #
 #0.0.0.0 ph-shaw-acs.ciscoprimehome.com 
