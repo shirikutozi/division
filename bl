@@ -14,8 +14,6 @@
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
-0.0.0.0 analytics.xcal.tv # TV ANALYTICS(?)
-0.0.0.0 analytics.hdw.r53.deap.tv # TV ANALYTICS(?)
 #
 #
 0.0.0.0 log-upload-os.mihoyo.com
@@ -41,6 +39,8 @@
 0.0.0.0 ph-shaw-acs.ciscoprimehome.com 
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
+0.0.0.0 analytics.xcal.tv # TV ANALYTICS(?)
+0.0.0.0 analytics.hdw.r53.deap.tv # TV ANALYTICS(?)
 0.0.0.0 myriad.merlin.comcast.com #UNTESTED
 #0.0.0.0 stbrtl.stb.r53.xcal.tv #UNTESTED
 #
