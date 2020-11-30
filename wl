@@ -1,18 +1,14 @@
-### AMAZON APP 
-aan.amazon-adsystem.com # AMAZON APP
-aan.amazon.com # AMAZON APP
-aax-us-east.amazon-adsystem.com # AMAZON APP
-aax-us-pdx.amazon-adsystem.com # AMAZON APP
-aax.amazon-adsystem.com # AMAZON APP
-c.amazon-adsystem.com # AMAZON APP FIX
-fls-na.amazon.ca # AMAZON APP
-fls-na.amazon.com # AMAZON APP
-mads.amazon-adsystem.com # AMAZON APP
-s.amazon-adsystem.com # AMAZON APP
-mag-na.amazon.com # AMAZON APP
-
-
-### OTHER SOURCE 
+aan.amazon-adsystem.com 
+aan.amazon.com 
+aax-us-east.amazon-adsystem.com 
+aax-us-pdx.amazon-adsystem.com 
+aax.amazon-adsystem.com 
+c.amazon-adsystem.com 
+fls-na.amazon.ca 
+fls-na.amazon.com 
+mads.amazon-adsystem.com 
+s.amazon-adsystem.com 
+mag-na.amazon.com 
 
 aan.amazon-adsystem.com
 aan.amazon.com
