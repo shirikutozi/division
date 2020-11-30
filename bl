@@ -38,6 +38,6 @@
 0.0.0.0 osasiadispatch.yuanshen.com
 #
 #
-0.0.0.0 #ph-shaw-acs.ciscoprimehome.com 
-0.0.0.0 #beacons.gcp.gvt2.com
-0.0.0.0 #beacons-handoff.gcp.gvt2.com
+#0.0.0.0 ph-shaw-acs.ciscoprimehome.com 
+#0.0.0.0 beacons.gcp.gvt2.com
+#0.0.0.0 beacons-handoff.gcp.gvt2.com
