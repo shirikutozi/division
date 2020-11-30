@@ -7,6 +7,7 @@ aax.amazon-adsystem.com # AMAZON APP
 c.amazon-adsystem.com # AMAZON APP FIX
 fls-na.amazon.ca # AMAZON APP
 fls-na.amazon.com # AMAZON APP
+fls-na.amazon.ca # AMAZON APP
 mads.amazon-adsystem.com # AMAZON APP
 s.amazon-adsystem.com # AMAZON APP
 
