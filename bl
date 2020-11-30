@@ -19,27 +19,26 @@
 #
 #
 0.0.0.0 log-upload-os.mihoyo.com
-0.0.0.0 uploadstatic-sea.mihoyo.com
+#0.0.0.0 uploadstatic-sea.mihoyo.com ( ANNOUNCEMENT & STUFF )
 0.0.0.0 uploadstatic-sea.mihoyo.com.w.kunlunsl.com
-#0.0.0.0 hk4e-api-os-static.mihoyo.com
+#0.0.0.0 hk4e-api-os-static.mihoyo.com ( ANNOUNCEMENT & STUFF )
 #
 #
 0.0.0.0 overseauspider.yuanshen.com
-0.0.0.0 minor-api-os.mihoyo.com
-0.0.0.0 osusadispatch.yuanshen.com
-#0.0.0.0 autopatchhk.yuanshen.com
-#0.0.0.0 sdk-os-static.mihoyo.com
+0.0.0.0 minor-api-os.mihoyo.com  # IMPORTANT (REVOKED) 
+#0.0.0.0 osusadispatch.yuanshen.com # IMPORTANT
+#0.0.0.0 autopatchhk.yuanshen.com # INGAME UPDATER
+0.0.0.0 sdk-os-static.mihoyo.com
 0.0.0.0 sdk-os-static.mihoyo.com.a.lahuashanbx.com
-0.0.0.0 hk4e-api-os.mihoyo.com
+#0.0.0.0 hk4e-api-os.mihoyo.com ( ANNOUNCEMENT & STUFF )
 #
 #
 #0.0.0.0 dispatchosglobal.yuanshen.com # IMPORTANT
-#0.0.0.0 oseurodispatch.yuanshen.com
-#0.0.0.0 osasiadispatch.yuanshen.com
+0.0.0.0 oseurodispatch.yuanshen.com
+0.0.0.0 osasiadispatch.yuanshen.com
 #
 # SHAW STUFF ( ? )
 0.0.0.0 ph-shaw-acs.ciscoprimehome.com 
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 merchandise.opera-api.com
-
