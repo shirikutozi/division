@@ -9,6 +9,7 @@ fls-na.amazon.ca # AMAZON APP
 fls-na.amazon.com # AMAZON APP
 mads.amazon-adsystem.com # AMAZON APP
 s.amazon-adsystem.com # AMAZON APP
+mag-na.amazon.com # AMAZON APP
 
 
 ### OTHER SOURCE 
