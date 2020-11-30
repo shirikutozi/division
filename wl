@@ -12,6 +12,9 @@ mag-na.amazon.com
 amazon.ca
 amzn.ca
 api.amazon.ca
+analytics.xcal.tv
+z.moatads.com
+
 
 aax.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
