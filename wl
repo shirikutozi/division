@@ -1,3 +1,4 @@
+# unused ; amazon app is infested with ad domains.
 aan.amazon-adsystem.com 
 aan.amazon.com 
 aax-us-east.amazon-adsystem.com 
