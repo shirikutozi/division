@@ -41,7 +41,7 @@
 0.0.0.0 beacons-handoff.gcp.gvt2.com
 0.0.0.0 analytics.xcal.tv # TV ANALYTICS(?)
 0.0.0.0 analytics.hdw.r53.deap.tv # TV ANALYTICS(?)
-0.0.0.0 myriad.merlin.comcast.com #UNTESTED
+#0.0.0.0 myriad.merlin.comcast.com #UNTESTED
 #0.0.0.0 stbrtl.stb.r53.xcal.tv #UNTESTED
 #
 # My stuff
