@@ -9,7 +9,6 @@ fls-na.amazon.com
 mads.amazon-adsystem.com 
 s.amazon-adsystem.com 
 mag-na.amazon.com 
-googleads.g.doubleclick.net
 
 aan.amazon-adsystem.com
 aan.amazon.com
