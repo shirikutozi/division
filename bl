@@ -27,8 +27,8 @@
 0.0.0.0 overseauspider.yuanshen.com
 0.0.0.0 minor-api-os.mihoyo.com
 0.0.0.0 osusadispatch.yuanshen.com
-#0.0.0.0 autopatchhk.yuanshen.com
-#0.0.0.0 sdk-os-static.mihoyo.com
+0.0.0.0 autopatchhk.yuanshen.com
+0.0.0.0 sdk-os-static.mihoyo.com
 #0.0.0.0 sdk-os-static.mihoyo.com.a.lahuashanbx.com
 #0.0.0.0 hk4e-api-os.mihoyo.com
 #
