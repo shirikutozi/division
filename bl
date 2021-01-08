@@ -50,3 +50,6 @@
 0.0.0.0 tracking.overwolf.com
 0.0.0.0 usersconfig.overwolf.com
 0.0.0.0 updates.overwolf.com
+#
+# MusicBee?
+0.0.0.0 o456940.ingest.sentry.io
