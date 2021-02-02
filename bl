@@ -62,3 +62,6 @@
 #
 # UNKNOWN 
 0.0.0.0 deff.nelreports.net
+#
+# RIOT SERVICES
+0.0.0.0 ekg.riotgames.com # Traced from LOLClient; Unknown
