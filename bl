@@ -26,7 +26,7 @@
 0.0.0.0 minor-api-os.mihoyo.com  # IMPORTANT (REVOKED) 
 #0.0.0.0 osusadispatch.yuanshen.com # IMPORTANT
 #0.0.0.0 autopatchhk.yuanshen.com # INGAME UPDATER
-0.0.0.0 sdk-os-static.mihoyo.com # REMOVE WHEN UPDATING
+#0.0.0.0 sdk-os-static.mihoyo.com # REMOVE WHEN UPDATING
 0.0.0.0 sdk-os-static.mihoyo.com.a.lahuashanbx.com
 #0.0.0.0 hk4e-api-os.mihoyo.com # ANNOUNCEMENT & STUFF
 #
